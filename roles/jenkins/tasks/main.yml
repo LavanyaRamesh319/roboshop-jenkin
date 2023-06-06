@@ -3,4 +3,3 @@
     file: sjob.yml
   loop: "{{sjobs}}"
 
-  

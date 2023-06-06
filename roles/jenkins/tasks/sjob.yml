@@ -1,6 +1,6 @@
 - name: Copy Xml File
   ansible.builtin.template:
-    src: test.xml
+    src: sjob.xml
     dest: /tmp/test.xml
 
 - name: Create Jenkins Jobs
