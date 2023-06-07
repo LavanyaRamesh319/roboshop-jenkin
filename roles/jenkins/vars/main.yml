@@ -2,3 +2,7 @@ sjobs:
   - { git_repo_url: https://github.com/raghudevopsb72/roboshop-terraform.git, job_name: roboshop-terraform }
   - { git_repo_url: https://github.com/raghudevopsb72/roboshop-ansible.git, job_name: roboshop-ansible }
   - { git_repo_url: https://github.com/raghudevopsb72/aws-ssm-paramter-store.git, job_name: aws-ssm-paramter-store }
+
+mjobs:
+  - { git_repo_url: https://github.com/raghudevopsb72/cart.git, job_name: cart }
+
